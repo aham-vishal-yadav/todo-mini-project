@@ -1,6 +1,6 @@
 # Todo List App
 
-![Todo List App](./screenshot.png)
+![Todo List App]
 
 ## Table of Contents
 - [Introduction](#introduction)
